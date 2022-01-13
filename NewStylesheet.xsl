@@ -10,6 +10,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<h1 style="text-align:center"><u>Employee Management System</u></h1>
 		<table border="4" align="center" bgcolor="white">
 		<tr>
+		<th>ID</th>
 		<th>Name</th>
 		<th>Age</th>
 		<th>Salary</th>
